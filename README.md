@@ -1,4 +1,4 @@
-#English 
+#English - 
   Hi, I’m Raphael Rocha
   I’m interested in games, movies and coding
   I’m currently learning C# and C ++ using Unreal 4 and developing  my skills
@@ -6,7 +6,7 @@
   I'm from Belém of Pará and i develop FrontEnd and BackEnd.
   you can contact me on raphaelbrazao@hotmail.com.
 
-#Portugues
+#Portugues - 
   Oi, me chamo Raphael Rocha
   Estou interessado em jogos, filmes e em codificação
   estou aprendendo C# e C++ utilizando Unreal 4 e melhorando minhas habilidades
